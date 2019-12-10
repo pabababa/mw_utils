@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\ModuleWorks\5axui\ParamHandler]
+[HKEY_CURRENT_USER\Software\MW\5axui\ParamHandler]
 "UiApiInfoBtnReleaseFlg"=hex:01
 
 
